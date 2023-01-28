@@ -57,4 +57,5 @@ amount = len(grades)
 
 print(total / amount)
 
-# You kinda just have to "know" that exists. It takes time and experience, but searching for almost _everything_ really helps. For example, you could've searched for "sum list of numbers python".
+# You kinda just have to "know" that exists. It takes time and experience, but searching for almost _everything_ really helps.
+# For example, you could've searched for "sum list of numbers python".
